@@ -1,5 +1,5 @@
 # proba
-fejléc: h1-> #szöveg, ..., h6-> ####szöveg
+fejléc: h1-> # szöveg, ..., h6-> #### szöveg
 félkövér: **kutya**
 dőlt: *kurva*
 felsorolás:
